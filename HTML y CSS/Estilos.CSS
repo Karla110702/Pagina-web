@@ -1,0 +1,19 @@
+body{
+ background-color: aliceblue;
+color: #5a3069;
+font-family: 'Lobster', cursive;
+}
+h3{ color: #f67890
+}
+/*para cambiar la altura y ancho de las imagenes en CSS pon 
+img { 
+    Width: 500px;
+    height:200px; }*/
+
+    img {
+       border-style: double; 
+    }  
+/*margain para margenes, hay margain left para moverlo a un lado y bottom para moverlo hacia abajo, tambiene sta padding que separa el margen de la imagen*/
+       
+    a{ color: #f8bc16
+    }
